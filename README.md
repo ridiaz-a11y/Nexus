@@ -21,6 +21,8 @@
 - [Contribución](#-contribución)
 - [Licencia](#-licencia)
 
+- [Comunicación sincrónica](#-comunicación-sincrónica)
+
 ## 🎯 Descripción
 
 Project Nexus es una aplicación web moderna que centraliza múltiples herramientas de productividad en una interfaz unificada. Diseñada para equipos y profesionales que necesitan gestionar proyectos, documentos, eventos y presentaciones de manera eficiente, sin tener que cambiar entre diferentes plataformas.
@@ -349,3 +351,7 @@ Para preguntas o sugerencias, abre un issue en el repositorio.
 ---
 
 ⭐ Si este proyecto te resulta útil, considera darle una estrella en GitHub!
+
+## 🗣️ Comunicación sincrónica
+
+Se han añadido las pautas y reglas para reuniones en tiempo real (Zoom / Google Meet) en `docs/comunicacion_sincronica.md`. El documento incluye lineamientos de preparación, accesibilidad, frecuencias recomendadas y reglas de interacción. Revisar ese archivo para instrucciones y plantillas de convocatoria/acta.

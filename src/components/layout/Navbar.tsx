@@ -13,6 +13,7 @@ import {
   Columns,
   FileText,
   Presentation,
+  GitBranch,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -49,6 +50,12 @@ export const Navbar = () => {
       href: "/calendar",
       icon: Calendar,
       description: "Google Calendar",
+    },
+    {
+      label: "Flujo",
+      href: "/project-flow",
+      icon: GitBranch,
+      description: "Actividades y flujo",
     },
     {
       label: "Trello",

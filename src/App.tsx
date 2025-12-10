@@ -10,6 +10,7 @@ import Calendar from "./pages/Calendar";
 import Trello from "./pages/Trello";
 import Notion from "./pages/Notion";
 import Presentations from "./pages/Presentations";
+import ProjectFlow from "./pages/ProjectFlow";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -27,6 +28,7 @@ const App = () => (
               <Route path="/" element={<Index />} />
               <Route path="/drive" element={<Drive />} />
               <Route path="/calendar" element={<Calendar />} />
+              <Route path="/project-flow" element={<ProjectFlow />} />
               <Route path="/trello" element={<Trello />} />
               <Route path="/notion" element={<Notion />} />
               <Route path="/presentations" element={<Presentations />} />
